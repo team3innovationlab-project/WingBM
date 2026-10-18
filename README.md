@@ -1,5 +1,5 @@
-WingPOS - Modern Retail Operating System & POS Platform
-WingPOS is the modern retail operating system that connects POS, payments, inventory, expenses, reconciliation, staff, and automated business reporting in one platform.
+WinggBM- Modern Retail Operating System & POS Platform
+WingBM is the modern retail operating system that connects POS, payments, inventory, expenses, reconciliation, staff, and automated business reporting in one platform.
 
 Built for retail storefronts, boutiques, supermarkets, and electronics shops across West Africa (with Paystack, MTN Mobile Money, Telecel Cash, AT Money, and Visa/Mastercard integration).
 
@@ -122,11 +122,11 @@ Open a Pull Request
 This project is licensed under the MIT License — see the LICENSE file for details.
 
 📞 Contact & Support
-Website: wingpos.com
+Website: wingbm.com
 
-Email: support@wingpos.com
+Email: support@wingbm.com
 
-Twitter: @wingpos
+Twitter: @wingbm
 
 <p align="center">Made with ❤️ for retailers across West Africa</p>
 This response is AI-generated, for reference only.

@@ -1,7 +1,7 @@
-WinggBM- Modern Retail Operating System & POS Platform
+WingBM- Modern Retail Operating System & POS Platform
 WingBM is the modern retail operating system that connects POS, payments, inventory, expenses, reconciliation, staff, and automated business reporting in one platform.
 
-Built for retail storefronts, boutiques, supermarkets, and electronics shops across West Africa (with Paystack, MTN Mobile Money, Telecel Cash, AT Money, and Visa/Mastercard integration).
+Built for businesses for low SKU like barbershops, salons, cold stores, water depot retail storefronts, shops across West Africa (with Paystack, MTN Mobile Money, Telecel Cash, AT Money, and Visa/Mastercard integration).
 
 🌟 Key Features
 1. Fast Checkout POS Terminal
